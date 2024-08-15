@@ -39,7 +39,7 @@ I mostly work with Networking, MVC Frameworks and Cloud based technologies. 🚀
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="75" />
   </a> 
 <a href="https://azure.microsoft.com/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/674621/71187814-6bc05180-2247-11ea-8c00-bc8d1a5e76b2.png" height="75" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" height="75" />
 </a>
  </p>
   
