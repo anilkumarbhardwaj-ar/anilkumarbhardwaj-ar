@@ -45,14 +45,10 @@ I mostly work with Networking, MVC Frameworks and Cloud based technologies. 🚀
   
 ### Databases and Monitoring
 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://cdn.dribbble.com/users/59947/screenshots/15117003/media/c116333eb25056343df08ffaeac6f183.gif" height="75" />
+ <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="60" />
 </a>
-
- <a href="https://prometheus.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
-  </a>
-  <a href="https://www.influxdata.com/" target="_blank" >
+ <a href="https://www.influxdata.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/influxdata.gif" height="60" />
   </a>
     <a href="https://www.postgresql.org" target="_blank" >
