@@ -4,9 +4,18 @@
 **anilkumarbhardwaj-ar/anilkumarbhardwaj-ar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am [Anil Kumar]([https://www.linkedin.com/in/anil-kumar-678285299/]), a DeVops Engineer from passionate about developing production-ready applications with 9+ years of professional onsite as well as working experience. 🎯
+Hello! I’m Anil Kumar, a dedicated DevOps Engineer with over 9 years of experience in building and optimizing cloud infrastructures. My expertise spans across Azure, Terraform, Git, GitHub, Python, Kubernetes, and Docker, driving efficient and scalable solutions for complex environments.
 
-I mostly work with Networking, MVC Frameworks and Cloud based technologies. 🚀
+🔹 What I Do:
+I specialize in creating robust and scalable infrastructures in Azure using Terraform, ensuring seamless automation and continuous integration/deployment. My passion lies in transforming intricate workflows into streamlined, efficient processes through the power of modern DevOps practices.
+
+🔹 Skills & Expertise:
+
+Cloud Platforms: Azure
+Infrastructure as Code: Terraform
+Version Control: Git, GitHub
+Programming Languages: Python
+Containerization & Orchestration: Docker, Kubernetes
 
 
 <p float="left">
